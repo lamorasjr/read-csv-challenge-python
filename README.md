@@ -1,2 +1,2 @@
 # read-csv-challange-python
-Repository to different ways to process data with Python. Part of its content is related to my knowledge acquired on Jornada de Dados and some code from One-Billion-Row-Challenge-Python.
+Repository to different ways to process csv files data with Python. The content of this repo is inspired on repos from course [Jornada de Dados](https://github.com/lvgalvao/data-engineering-roadmap.git) and from [One-Billion-Row-Challenge-Python](https://github.com/lvgalvao/One-Billion-Row-Challenge-Python.git), and my way to put in practice what I am learning.
